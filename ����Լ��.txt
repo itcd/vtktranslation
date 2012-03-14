@@ -1,0 +1,25 @@
+统一一下一些专用名词的翻译，待补充。
+
+
+Filter				暂不作翻译
+Actor				暂不作翻译
+Prop				暂不作翻译
+Mapper				暂不作翻译
+
+Pipeline			管线
+Interactor			交互器
+Render				渲染 ？ 绘制
+Source Object			源对象
+Visualization Toolkit		VTK 
+Visualization Pipeline		可视化管线
+DataSet                         数据集
+
+cell                            单元
+Decimation                      抽取？
+Clip                            裁剪
+Cutting                         切割
+
+Warp                            怎么翻译？
+elevation map                   高程图
+
+Text Annotation					文本标注
